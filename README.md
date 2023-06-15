@@ -4,3 +4,4 @@ It consists of a profile card displaying an avatar, a brief bio, and some develo
 ![imagen](https://github.com/aimagist/react-profileCard/assets/104396772/69866830-dd5c-443d-a884-cc33b478ebd3)
 
 
+note: I downloaded the picture from LinkedIn and it had this weird rotation and black background styles. I used it anyways ^^
